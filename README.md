@@ -1,7 +1,7 @@
 <div align="center">
 <img style="width:300px" src="https://postfiles.pstatic.net/MjAyMjEyMTZfNDkg/MDAxNjcxMTY3Nzk0MjQw.d3EhGCbQktAbDNCBEYG4C8cMzRYkZvhx6V002HEhBr4g.Yu219mjLQsjSnVzHJlKWbq0do7YI14bWGj5oCv6yh9Mg.GIF.youwillstay/aremoji.gif?type=w966" alt="emoji"/>
 
-<a href="https://sophiecial.tistory.com/"><img src="https://img.shields.io/badge/BLOG-TISTORY-9cf" alt="blog"></a>
+<a href="https://sophiecial.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-TISTORY-9cf" alt="blog"></a>
 <img src="https://komarev.com/ghpvc/?username=sophie-jhkime&style=flat-square&color=blue" alt=""/>
     <h1>Front-end Developer Jihye kim</h1>
 </div>
